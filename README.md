@@ -1,1 +1,2 @@
-# HueSwitch
+# HueSwitch - Chrome Dark Mode Extension
+
